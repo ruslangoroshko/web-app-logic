@@ -1,0 +1,22 @@
+{
+  "name": "web-app-logic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReachPay/web-app-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReachPay/web-app-logic/issues"
+  },
+  "homepage": "https://github.com/ReachPay/web-app-logic#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
